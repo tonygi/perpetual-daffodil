@@ -1,0 +1,38 @@
+locale: en-US
+title: Strata
+url: ''
+baseurl: ''
+google_analytics_key: ''
+description: >
+  Write an awesome description for your new site here. You can edit this line in
+  _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+author:
+  name: Your Name
+  email: your-email@domain.com
+  twitter: null
+social:
+  name: Strata Reloaded Template
+  links:
+    - 'https://github.com/comfusion/strata-reloaded-jekyll-template'
+permalink: pretty
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+webmaster_verifications:
+  google: null
+  bing: null
+  alexa: null
+  yandex: null
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS
